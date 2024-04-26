@@ -1,0 +1,25 @@
+{
+    "project_info": {
+        "project_number": "405874705637",
+        "project_id": "ecommerce-5da2d",
+        "storage_bucket": "ecommerce-5da2d.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:405874705637:android:6579549f5ae5d4931ac00c",
+            "android_client_info": {
+                "package_name": "com.farsi.ecommerce"
+            }
+        },
+        "oauth_client": [],
+        "api_key": [{
+            "current_key": "AIzaSyDdloxX0xUjZcf6cu8xEqaRux9snbrXzGM"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": []
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
